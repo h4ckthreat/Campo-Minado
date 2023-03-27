@@ -1,5 +1,5 @@
-# <i> Campo Minado. </i>👨🏻‍💻
-
+# <i> Campo Minado. </i> 🕹️
+# <i> Jogo campo minado com níveis de dificuldade. </i> 🕹️
 <h4 align="center">
  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackthreat/)
