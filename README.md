@@ -1,5 +1,4 @@
 # <i> Campo Minado. </i> 🕹️
-# <i> Jogo campo minado com níveis de dificuldade. </i> 🕹️
 
 O jogo Campo Minado é um jogo de tabuleiro em que o jogador deve desvendar células em um campo minado sem acertar uma mina. Cada célula pode estar vazia ou conter uma mina. Ao selecionar uma célula vazia, o jogo revela o número de minas nas células vizinhas. Com base nessas informações, o jogador deve deduzir a localização das minas e evitar revelar uma célula com uma mina.
 
